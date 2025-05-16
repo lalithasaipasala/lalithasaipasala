@@ -38,12 +38,7 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 ---
 
 ### 📌 Projects
-
-- 📊 [Blinkit Sales Dashboard (Power BI)](https://github.com/lalithasaipasala/blinkit-sales-dashboard)  
-  Developed an interactive sales dashboard for Blinkit using **Power BI** and **Excel Office 365** to visualize performance metrics, category trends, and customer behavior for better business insights.
-
-- 🤖 [Customer Churn Prediction in Telecom (Jupyter Notebook)](https://github.com/lalithasaipasala/telecom-churn-prediction)  
-  Built a machine learning model using a dataset of 1 million telecom users to predict churn. Used **Python**, **pandas**, **scikit-learn**, and **Excel Office 365** for data cleaning, model building, and analysis.
+Explore my [projects](#project-table) including dashboards, notebooks, and analytics tools.
 
 
 ---
