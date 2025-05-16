@@ -38,7 +38,8 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 ---
 
 ### 📌 Projects
-Explore my [projects](#project-table) including dashboards, notebooks, and analytics tools.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/lalithasaipasala/my-projects).
+
 
 
 ---
