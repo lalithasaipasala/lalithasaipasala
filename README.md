@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 ### 🚀 About Me
 
 - 🔭 I’m currently working as a Graduate Assistant in the Office of Student Affairs at MSU
-- 🌱 I’m currently learning **SQL**, **Power BI**, **PySpark**, and **Data Analytics**
+- 🌱 I have around four years of experience as a Data Analyst, working with SQL, Power BI, PySpark, and Data Analytics.
 - 👯 I’m looking to collaborate on **data science, AI/ML, and full-stack web projects**
 - 🤝 I’m open to research, internships, and freelance opportunities in tech
 - 💬 Ask me about **Python**, **SQL**, **Dashboards**, **Networking**, and **Cloud basics**
