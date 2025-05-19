@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate and curious learner currently pursuing my Master's in Computer Science at Missouri State University. I enjoy building data-driven solutions, exploring new technologies, and working on impactful projects.
 
----
-
 ### 🚀 About Me
 
 -  🎓 I have been working as a Graduate Assistant in the Vice President’s Office of Student Affairs at MSU (2024–Present).
@@ -15,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love organizing student events, coding with coffee, and traveling 🌍
 
----
 
 ### 🧰 Languages, Tools & ML Models
 
@@ -35,11 +32,6 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 ### 📌 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/lalithasaipasala/data-analytics-projects).
 
-
-
----
-
----
 
 Thanks for visiting my profile! 😊
 
