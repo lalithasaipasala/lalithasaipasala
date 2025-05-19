@@ -30,13 +30,6 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=black)
 
-
-#### 🧠 Machine Learning Models Used:
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- K-Nearest Neighbour
-
 ---
 
 ### 📌 Projects
