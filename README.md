@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 - 🔧 All the projects showcased here are personally completed by me using programming languages and tools like Python, SQL, Power BI, Excel, and Tabular.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lalitha-sai-pasala-717a9631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | Email: pasalalalithasai2820@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love organizing student events, coding with coffee, and traveling 🌍
 
 
 ### 🧰 Languages, Tools & ML Models
