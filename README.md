@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm a passionate and curious learner currently pur
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Tabular](https://img.shields.io/badge/-Tabular-3C3C3C?logo=data&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
+![AI Algorithms](https://img.shields.io/badge/-AI%20Algorithms-5C2D91?logo=azure-ai&logoColor=white)
 
 ---
 
