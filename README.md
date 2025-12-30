@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lalitha Sai Pasala
 
-Welcome to my GitHub profile! I'm a passionate and curious learner currently pursuing my Master's in Computer Science at Missouri State University. I enjoy building data-driven solutions, exploring new technologies, and working on impactful projects.
+Welcome to my GitHub profile! I'm a passionate and curious learner completed my Master's in Computer Science at Missouri State University. I enjoy building data-driven solutions, exploring new technologies, and working on impactful projects.
 
 ### 🚀 About Me
 
