@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and curious learner completed my 
 
 ### 🚀 About Me
 
--  🎓 I worked as a Graduate Assistant in the Vice President’s Office of Student Affairs at MSU (2024–Present).
+-  🎓 I worked as a Graduate Assistant in the Vice President’s Office of Student Affairs at MSU .
 - 🌱 I have around four years of experience as a Data Analyst, working with **SQL, Power BI, PySpark, and Data Analytics.**
 - 👯 I’m looking to collaborate on **data science, AI/ML, and full-stack web projects**
 - 🤝 💼 I’m open to full-time Data Analyst roles as well as internship opportunities in tech.
