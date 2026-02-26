@@ -16,12 +16,12 @@ Welcome to my GitHub profile! I'm a passionate and curious learner completed my 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Tabular](https://img.shields.io/badge/-Tabular-3C3C3C?logo=data&logoColor=white)
+![Tabular](https://img.shields.io/badge/-Tabular-3C3C3C?logo=microsoftsqlserver&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
-![AI Algorithms](https://img.shields.io/badge/-AI%20Algorithms-5C2D91?logo=azure-ai&logoColor=white)
+![AI Algorithms](https://img.shields.io/badge/-AI%20Algorithms-5C2D91?logo=microsoftazure&logoColor=white)
 
 ---
 
