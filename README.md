@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Lalitha Sai Pasala
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A0DAD&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;MS+in+Computer+Science+%40+Missouri+State+Univ;Passionate+about+Data-Driven+Solutions)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I'm a passionate and curious learner completed my Master's in Computer Science at Missouri State University. I enjoy building data-driven solutions, exploring new technologies, and working on impactful projects.
 
 ### 🚀 About Me
